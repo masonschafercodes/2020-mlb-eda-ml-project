@@ -1,0 +1,45 @@
+body {
+  background-image: url("../Images/base.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+  color: black;
+  height: auto;
+}
+
+.main-bar{
+  background-color: white;
+  color: red;
+  text-align: center
+}
+
+.text-field{
+  background-color:white;
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 10px;
+  font-size: x-large;
+  width: 60%;
+  overflow-wrap: break-word;
+
+}
+
+.section-header{
+  background: transparent;
+  margin-top: 50px;
+  font-size: xx-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center 
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+.img-wrap{
+  text-align: center;
+  display: block;
+  padding-top: 1em;}
+
