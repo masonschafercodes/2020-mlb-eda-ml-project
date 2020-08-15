@@ -20,7 +20,6 @@ body {
   font-size: x-large;
   width: 60%;
   overflow-wrap: break-word;
-
 }
 
 .section-header{
@@ -33,8 +32,7 @@ body {
 
 .center {
   margin: auto;
-  width: 50%;
-  border: 3px solid green;
+  width: 70%;
   padding: 10px;
 }
 
@@ -43,3 +41,24 @@ body {
   display: block;
   padding-top: 1em;}
 
+
+.link-wrap{
+  background: white;
+  margin-top: 50px;
+  font-size: xx-large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  color: black;
+}
+
+.frame-wrap{
+  height: 100%;
+  width:100%;
+  background-color: white;
+  display: inline-block;
+  overflow: hidden
+}
+
+.word-bg{
+  background-color: white;
+}
