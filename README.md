@@ -63,3 +63,5 @@ MLB data analysis and regression model building using [sklearn](https://scikit-l
  - The best model to predict batting averages over the season was both the Linear Regression and Ridge models, but still performed poorly when testing with the smaller 2020 season statistics.
  - Less games played resulted in less accurate modeling, with less IP (or Innings pitched) and less AB (or At Bats) during the 2020 season. 
  - As the 2020 season progresses and more data becomes available, regression model should improve.
+ 
+ Deployed: [https://nifty-booth-d3020f.netlify.app/](https://nifty-booth-d3020f.netlify.app/)
