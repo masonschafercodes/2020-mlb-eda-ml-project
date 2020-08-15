@@ -31,3 +31,11 @@ MLB data analysis and regression model building using [sklearn]([https://scikit-
     ![MLB%202019%202020%20Data%20Analysis%20f5afa4c95aab41159c93103717b043bd/hitting_preds.png](MLB%202019%202020%20Data%20Analysis%20f5afa4c95aab41159c93103717b043bd/hitting_preds.png)
 
     ![MLB%202019%202020%20Data%20Analysis%20f5afa4c95aab41159c93103717b043bd/hitting_preds_graph.png](MLB%202019%202020%20Data%20Analysis%20f5afa4c95aab41159c93103717b043bd/hitting_preds_graph.png)
+
+    - **Statistical Prediction of Pitching Wins and Batting Averages for the Entire 2020 Season**
+
+        ![MLB%202019%202020%20Data%20Analysis%20f5afa4c95aab41159c93103717b043bd/pred_battings.png](MLB%202019%202020%20Data%20Analysis%20f5afa4c95aab41159c93103717b043bd/pred_battings.png)
+
+        ![MLB%202019%202020%20Data%20Analysis%20f5afa4c95aab41159c93103717b043bd/pred_pitching.png](MLB%202019%202020%20Data%20Analysis%20f5afa4c95aab41159c93103717b043bd/pred_pitching.png)
+
+        ***Hitting predictions are not as good as they could be because the season just picked back up and the stats are not filled out as much as they could be.***
