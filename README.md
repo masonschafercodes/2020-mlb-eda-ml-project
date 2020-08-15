@@ -1,6 +1,6 @@
 # MLB 2019/2020 Data Analysis
 
-MLB data analysis and regression model building using [sklearn]([https://scikit-learn.org/stable/index.html](https://scikit-learn.org/stable/index.html)). This project analyzes the patterns of players/teams in the MLB to help make predictions on who is going to have a higher likelihood of winnings and losing games.
+MLB data analysis and regression model building using [sklearn](https://scikit-learn.org/stable/index.html). This project analyzes the patterns of players/teams in the MLB to help make predictions on who is going to have a higher likelihood of winnings and losing games.
 
 ## Data Sources:
 
